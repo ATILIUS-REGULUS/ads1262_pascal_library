@@ -1,0 +1,5 @@
+# Compiled data #
+#################
+ads1262_project
+*.dbg
+lib/

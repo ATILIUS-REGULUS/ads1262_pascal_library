@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="15">
+      <Unit0>
+        <Filename Value="ads1262_project.ppr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="76" Y="21"/>
+        <UsageCount Value="200"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Main_F"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main_Unit"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="135"/>
+        <CursorPos X="46" Y="187"/>
+        <UsageCount Value="200"/>
+        <Bookmarks Count="2">
+          <Item0 Y="86" ID="6"/>
+          <Item1 Y="186" ID="2"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="ads1262_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ADS1262_Unit"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="279"/>
+        <CursorPos Y="336"/>
+        <UsageCount Value="202"/>
+        <Bookmarks Count="5">
+          <Item0 Y="1078" ID="9"/>
+          <Item1 Y="1150" ID="5"/>
+          <Item2 Y="330" ID="1"/>
+          <Item3 Y="1398" ID="4"/>
+          <Item4 Y="1039" ID="3"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="project_defines.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="30"/>
+        <UsageCount Value="192"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="seismometer_ads1115_v_0_1_unit.pas"/>
+        <ComponentName Value="Main_F"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Seismometer_ADS1115_V_0_1_Unit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="45" Y="11"/>
+        <UsageCount Value="5"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="5"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="main_unit.frm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos Y="79"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="FRM"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/unix/bunxh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="69"/>
+        <CursorPos X="15" Y="97"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/unix/aliasctp.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="33"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/unix/bunxovlh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="53"/>
+        <UsageCount Value="2"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="fpspi.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="216"/>
+        <CursorPos Y="320"/>
+        <UsageCount Value="7"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/local/codetyphon/typhon/lcl/include/customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="628"/>
+        <CursorPos Y="651"/>
+        <UsageCount Value="1"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../spidev_test/spidev_test.c"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../spidev_test/spidev_test.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="315"/>
+        <CursorPos X="100" Y="379"/>
+        <UsageCount Value="5"/>
+        <Bookmarks Count="1">
+          <Item0 Y="411" ID="7"/>
+        </Bookmarks>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="119"/>
+        <CursorPos X="10" Y="218"/>
+        <UsageCount Value="6"/>
+      </Unit14>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="117" Column="16" TopLine="22"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="989" Column="59" TopLine="894"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="117" Column="16" TopLine="66"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="989" Column="59" TopLine="894"/>
+      </Position4>
+      <Position5>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="282" Column="68" TopLine="223"/>
+      </Position5>
+      <Position6>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="186" TopLine="135"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1036" TopLine="969"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="257" Column="24" TopLine="219"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1038" TopLine="943"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="330" TopLine="279"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ads1262_unit.pas"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="264" TopLine="162"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="232" Column="15" TopLine="176"/>
+      </Position13>
+      <Position14>
+        <Filename Value="main_unit.pas"/>
+        <Caret Line="186" TopLine="135"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1038" Column="80" TopLine="988"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="326" Column="38" TopLine="279"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1132" Column="43" TopLine="1037"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1133" Column="45" TopLine="1038"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="326" Column="38" TopLine="275"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1135" Column="32" TopLine="1040"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1187" Column="17" TopLine="1092"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1223" Column="17" TopLine="1128"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1255" Column="17" TopLine="1160"/>
+      </Position23>
+      <Position24>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1274" Column="17" TopLine="1179"/>
+      </Position24>
+      <Position25>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1293" Column="17" TopLine="1198"/>
+      </Position25>
+      <Position26>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1311" Column="17" TopLine="1216"/>
+      </Position26>
+      <Position27>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1330" Column="17" TopLine="1235"/>
+      </Position27>
+      <Position28>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="326" TopLine="279"/>
+      </Position28>
+      <Position29>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1043" Column="33" TopLine="988"/>
+      </Position29>
+      <Position30>
+        <Filename Value="ads1262_unit.pas"/>
+        <Caret Line="1165" Column="86" TopLine="1087"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="5">
+      <Item1>
+        <Expression Value="Format_S"/>
+      </Item1>
+      <Item2>
+        <Expression Value="Read_N"/>
+      </Item2>
+      <Item3>
+        <Expression Value="fdset"/>
+      </Item3>
+      <Item4>
+        <Expression Value="rc"/>
+      </Item4>
+      <Item5>
+        <Expression Value="Result"/>
+      </Item5>
+    </Watches>
+  </Debugging>
+</CONFIG>
